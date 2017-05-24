@@ -1,0 +1,12 @@
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+.gitignore
+.idea/
+node_modules/
+temp
+*.log
+todo
+.DS_Store
